@@ -1,4 +1,6 @@
-![Alt text(https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![Alt text](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
+
 ### Hey there I'm John Amini and welcome to my page 👋
 - 🏠 Currently residing in New Jersey
 - 🔭 I’m currently working on further optimizing my portfolio projects.
